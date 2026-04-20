@@ -1,1 +1,1 @@
-hi
+Javascript practise
