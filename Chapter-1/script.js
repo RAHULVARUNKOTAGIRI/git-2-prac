@@ -1,0 +1,1 @@
+console.log("I am ready to begin my  JS course with 😍");
